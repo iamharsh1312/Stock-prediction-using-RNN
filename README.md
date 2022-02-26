@@ -1,7 +1,4 @@
-# stock-prediction-rnn-web-app
-**Disclaimer:** I'm not a financial expert. This project is for educational and entertainment purposes only to demonstrate the application of TensorFlow/Keras, Dash and other visualisations.
-
-Please consult a professional financial consultant for investing. Invest at your own risk.
+# stock-prediction
 
 ## About
 Project to predict stock prices with Recurrent Neural Network in TensorFlow/Keras, fbprophet (library by Facebook for forecasting time series data) with client input as web application (in Dash) for forecasting.
