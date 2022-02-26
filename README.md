@@ -5,9 +5,6 @@ Project to predict stock prices with Recurrent Neural Network in TensorFlow/Kera
 
 Feedback much appreciated and I hope you have fun running these dashboards! :)
 
-![Image](images/image01.png)
-<p align="center"><i>Image of Tesla (TSLA) stock price over time with forecast, lower and higher intervals.</i></p>
-
 ## Dependencies
 Install the following libraries before running `stock_dash.py` and `stock_forecast.py`.
 ```
