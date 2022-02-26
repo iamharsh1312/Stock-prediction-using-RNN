@@ -1,4 +1,4 @@
-# stock-prediction
+# Stock-prediction
 
 ## About
 Project to predict stock prices with Recurrent Neural Network in TensorFlow/Keras, fbprophet (library by Facebook for forecasting time series data) with client input as web application (in Dash) for forecasting.
